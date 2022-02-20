@@ -1,0 +1,314 @@
+{
+  "data": {
+    "countryCode": "ES",
+    "hostname": "axinstgeccwps1-pullandbear.central.inditex.grp",
+    "type": 1,
+    "supportedLanguage": [
+      {
+        "id": -5,
+        "name": "Español",
+        "code": "es",
+        "countryName": "España",
+        "isRTL": "false",
+        "localCode": "es",
+        "localeName": "es_ES"
+      },
+      {
+        "id": -13,
+        "name": "Català",
+        "code": "ca",
+        "countryName": "Espanya",
+        "isRTL": "false",
+        "localCode": "ca",
+        "localeName": "ca_ES"
+      },
+      {
+        "id": -12,
+        "name": "Galego",
+        "code": "gl",
+        "countryName": "España",
+        "isRTL": "false",
+        "localCode": "gl",
+        "localeName": "gl_ES"
+      },
+      {
+        "id": -11,
+        "name": "Euskara",
+        "code": "eu",
+        "countryName": "Espainia",
+        "isRTL": "false",
+        "localCode": "eu",
+        "localeName": "eu_ES"
+      },
+      {
+        "id": -1,
+        "name": "English",
+        "code": "en",
+        "countryName": "Spain",
+        "isRTL": "false",
+        "localCode": "en",
+        "localeName": "en_US"
+      }
+    ],
+    "catalogs": [
+      {
+        "id": 20109401,
+        "identifier": "PULL_ESPAÑA"
+      },
+      {
+        "id": 20309422,
+        "identifier": "REBAJAS_PULL_ESPAÑA"
+      }
+    ],
+    "locale": {
+      "langId": 0,
+      "currencyCode": "EUR",
+      "currencyDecimals": -2,
+      "currencyFormatPos": "#,##0.00 € ",
+      "currencyFormatNeg": "-#,##0.00 € ",
+      "currencySymbol": "€",
+      "currencyFormatPosHtml": "#,##0.00&nbsp;&euro;&nbsp;",
+      "currencyFormatNegHtml": "-#,##0.00&nbsp;&euro;&nbsp;",
+      "currencySymbolHtml": "&euro;",
+      "currencygroupingChar": ".",
+      "currencydecimalChar": ",",
+      "currencygroupingCharHtml": ".",
+      "currencydecimalCharHtml": ","
+    },
+    "ffmcenter": 22109411,
+    "storeDefaultLanguageId": -5,
+    "imageBaseUrl": "https://sttc-stage-pullandbearphr.inditex.com/2/photos",
+    "promotions": [
+      {
+        "promotionId": 10033,
+        "name": "SALES-V2020_PullES",
+        "isExportable": false,
+        "promotionDescriptions": [],
+        "promotionConfigurations": []
+      },
+      {
+        "promotionId": 10109,
+        "name": "PromoPBECOMM-14206_PullES",
+        "isExportable": false,
+        "promotionDescriptions": [],
+        "promotionConfigurations": []
+      },
+      {
+        "promotionId": 10146,
+        "name": "PromoPBECOMM-14503_PullES",
+        "isExportable": false,
+        "promotionDescriptions": [],
+        "promotionConfigurations": []
+      },
+      {
+        "promotionId": 10202,
+        "name": "PROMOWEB_PBECOMM-14750_PullES",
+        "isExportable": false,
+        "promotionDescriptions": [],
+        "promotionConfigurations": []
+      },
+      {
+        "promotionId": 10267,
+        "name": "PromoPBECOMM-15007_PullES",
+        "isExportable": false,
+        "promotionDescriptions": [],
+        "promotionConfigurations": []
+      },
+      {
+        "promotionId": 10360,
+        "name": "BlackFriday2020_PullES",
+        "isExportable": false,
+        "promotionDescriptions": [
+          {
+            "languageId": -1,
+            "description": "26/11–18:00 APP"
+          },
+          {
+            "languageId": -5,
+            "description": "26/11 a las 18h en APP"
+          },
+          {
+            "languageId": -11,
+            "description": "11/26 - 18etan APP-an"
+          },
+          {
+            "languageId": -12,
+            "description": "26/11 ás 18h na APP"
+          },
+          {
+            "languageId": -13,
+            "description": "26/11 a les 18 h a l’APP"
+          }
+        ],
+        "promotionConfigurations": [
+          {
+            "key": "COLOR",
+            "value": "#D64B59"
+          }
+        ]
+      },
+      {
+        "promotionId": 10519,
+        "name": "SALES-I2020_PullES",
+        "isExportable": false,
+        "promotionDescriptions": [
+          {
+            "languageId": -1,
+            "description": "06/01 – 18h APP"
+          },
+          {
+            "languageId": -5,
+            "description": "06/01 – 18h APP"
+          },
+          {
+            "languageId": -11,
+            "description": "01/06an 18etan APP-an"
+          },
+          {
+            "languageId": -12,
+            "description": "06/01 – 18h APP"
+          },
+          {
+            "languageId": -13,
+            "description": "06/01 – 18h APP"
+          }
+        ],
+        "promotionConfigurations": [
+          {
+            "key": "COLOR",
+            "value": "#D64B59"
+          }
+        ]
+      },
+      {
+        "promotionId": 10633,
+        "name": "Promo.COM_PBECOMM-15526_57079_PullES",
+        "isExportable": false,
+        "promotionDescriptions": [],
+        "promotionConfigurations": []
+      },
+      {
+        "promotionId": 10679,
+        "name": "PBECOMM-16669_PROMO SOLO ONLINE - 10/03_PullES",
+        "isExportable": false,
+        "promotionDescriptions": [],
+        "promotionConfigurations": []
+      },
+      {
+        "promotionId": 10747,
+        "name": "PBECOMM-16697_Promo_online_SRA_12/03_PullES",
+        "isExportable": false,
+        "promotionDescriptions": [],
+        "promotionConfigurations": []
+      },
+      {
+        "promotionId": 10844,
+        "name": "SALES-V2021_PullES",
+        "isExportable": false,
+        "promotionDescriptions": [
+          {
+            "languageId": -1,
+            "description": "24/06–18:00 APP"
+          },
+          {
+            "languageId": -5,
+            "description": "24/06 a las 18h en APP"
+          },
+          {
+            "languageId": -11,
+            "description": "24/06 - 18etan APP-AN"
+          },
+          {
+            "languageId": -12,
+            "description": "24/06 ás 18h na APP"
+          },
+          {
+            "languageId": -13,
+            "description": "24/06 a les 18 h a l’APP"
+          }
+        ],
+        "promotionConfigurations": [
+          {
+            "key": "COLOR",
+            "value": "#D64B59"
+          }
+        ]
+      },
+      {
+        "promotionId": 10930,
+        "name": "BlackFriday2021_PullES",
+        "isExportable": false,
+        "promotionDescriptions": [
+          {
+            "languageId": -1,
+            "description": "25/11 – 20h on APP"
+          },
+          {
+            "languageId": -5,
+            "description": "25/11 – 20h en APP"
+          },
+          {
+            "languageId": -11,
+            "description": "11/25 - 20:00etan APPan"
+          },
+          {
+            "languageId": -12,
+            "description": "25/11 – 20 h na APP"
+          },
+          {
+            "languageId": -13,
+            "description": "25/11 – 20 h a l’app"
+          }
+        ],
+        "promotionConfigurations": [
+          {
+            "key": "COLOR",
+            "value": "#D64B59"
+          }
+        ]
+      },
+      {
+        "promotionId": 11066,
+        "name": "SALES-I2021_PullES",
+        "isExportable": false,
+        "promotionDescriptions": [
+          {
+            "languageId": -1,
+            "description": "06/01–18:00 APP"
+          },
+          {
+            "languageId": -5,
+            "description": "06/01 a las 18h en APP"
+          },
+          {
+            "languageId": -11,
+            "description": "01/06 - 18etan APP-AN"
+          },
+          {
+            "languageId": -12,
+            "description": "06/01 ás 18h na APP"
+          },
+          {
+            "languageId": -13,
+            "description": "06/01 a les 18 h a l'APP"
+          }
+        ],
+        "promotionConfigurations": [
+          {
+            "key": "COLOR",
+            "value": "#D64B59"
+          }
+        ]
+      }
+    ],
+    "openForSale": true,
+    "openForSaleAndroid": true,
+    "openForSaleIOS": true,
+    "seocountryCode": ""
+  },
+  "brandId": 2,
+  "feedsVersion": 406,
+  "storeId": 24009400,
+  "_class": "Store",
+  "_entity": "Store"
+}

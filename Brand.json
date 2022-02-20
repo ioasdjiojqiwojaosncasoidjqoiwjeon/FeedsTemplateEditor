@@ -1,0 +1,42 @@
+{
+  "data": {
+    "name": "Pull&Bear",
+    "host": [
+      {
+        "key": "int",
+        "value": "http://axdeseccwpslb-pullandbear.central.inditex.grp/itxrest/2/catalog/store"
+      },
+      {
+        "key": "prustg",
+        "value": "http://dyn-pullandbearphr.inditex.com/itxrest/2/catalog/store"
+      },
+      {
+        "key": "stg",
+        "value": "http://axinstgeccihs1-pullandbear.central.inditex.grp/itxrest/2/catalog/store"
+      },
+      {
+        "key": "stg1",
+        "value": "http://axinstgeccwcs5.central.inditex.grp/itxrest/2/catalog/store"
+      },
+      {
+        "key": "pro",
+        "value": "https://www.pullandbear.com/itxrest/2/catalog/store"
+      }
+    ],
+    "appId": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "commercialMasterConfig": {
+      "allowed": false,
+      "idBranch": 2,
+      "host": "http://axinweblcnospnego.central.inditex.grp"
+    }
+  },
+  "brandId": 2,
+  "_class": "Brand",
+  "_entity": "Brand"
+}

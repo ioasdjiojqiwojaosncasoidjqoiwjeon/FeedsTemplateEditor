@@ -1,0 +1,2002 @@
+[
+    {
+        "data": {
+            "value": "_2_1_15",
+            "description": "Image_URL for Oysho"
+        },
+        "key": "Additional_image_suffix",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "false",
+            "description": "Indexer configuration to allow comparing stores from the environment with PRO"
+        },
+        "key": "COMPARE_ENVIRONMENT_STORES_WITH_PRO",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ESCN",
+            "description": "Pull&Bear Code mapping for Islas Canarias Store"
+        },
+        "key": "COUNTRY_CODE_MAPPING",
+        "brandId": 2,
+        "storeId": 24009413,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ESCN",
+            "description": "Code mapping for Islas Canarias Store"
+        },
+        "key": "COUNTRY_CODE_MAPPING",
+        "brandId": 3,
+        "storeId": 34009463,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ESCN",
+            "description": "Oysho Code mapping for Islas Canarias Store"
+        },
+        "key": "COUNTRY_CODE_MAPPING",
+        "brandId": 6,
+        "storeId": 64009613,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ESCN",
+            "description": "Overwrite countrycode in ICCanary Islands ZaraHome"
+        },
+        "key": "COUNTRY_CODE_MAPPING",
+        "brandId": 8,
+        "storeId": 84009913,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "432000000",
+            "description": "Difference in milis to send future price now substract startDateFuturePrice 5 days"
+        },
+        "key": "DIFF_MILIS_DAYS_TO_SEND_FUTURE_PRICE",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "39.5000",
+            "description": "Germany Delivery_costs for LENGOW Uterqüe"
+        },
+        "key": "Delivery_costs",
+        "brandId": 7,
+        "storeId": 74009654,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "39.5000",
+            "description": "United Kingdom Delivery_costs for LENGOW Uterqüe"
+        },
+        "key": "Delivery_costs",
+        "brandId": 7,
+        "storeId": 74009656,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "9.95000",
+            "description": "United States of America Delivery_costs LENGOW in ZaraHome"
+        },
+        "key": "Delivery_costs",
+        "brandId": 8,
+        "storeId": 84009527,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "9.99000",
+            "description": "Ireland Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_costs",
+        "brandId": 8,
+        "storeId": 84009907,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "14.99000",
+            "description": "Default Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_costs",
+        "brandId": 8,
+        "storeId": 84009911,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "153.00000",
+            "description": "Norway Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_costs",
+        "brandId": 8,
+        "storeId": 85009927,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "23.0000",
+            "description": "United Arab Emirates Delivery_costs LENGOW in ZaraHome"
+        },
+        "key": "Delivery_costs",
+        "brandId": 8,
+        "storeId": 85009931,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "19.95000",
+            "description": "Finland Delivery_costs LENGOW in ZaraHome"
+        },
+        "key": "Delivery_costs",
+        "brandId": 8,
+        "storeId": 85009986,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "0.00000",
+            "description": "Delivery costs for CSV Export"
+        },
+        "key": "Delivery_costs",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "Delivery description",
+            "description": "Delivery description for LENGOW Stradivarius"
+        },
+        "key": "Delivery_description",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "",
+            "description": "Delivery description for CSV Export"
+        },
+        "key": "Delivery_description",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "5",
+            "description": "Delivery_time for LENGOW Pull&Bear"
+        },
+        "key": "Delivery_time",
+        "brandId": 2,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "3",
+            "description": "Delivery time for CSV Export"
+        },
+        "key": "Delivery_time",
+        "brandId": 5,
+        "storeId": 54009550,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "6",
+            "description": "Delivery time for CSV Export"
+        },
+        "key": "Delivery_time",
+        "brandId": 5,
+        "storeId": 54009551,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "7",
+            "description": "Delivery time for CSV Export"
+        },
+        "key": "Delivery_time",
+        "brandId": 5,
+        "storeId": 55009570,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "12",
+            "description": "Delivery time for CSV Export"
+        },
+        "key": "Delivery_time",
+        "brandId": 5,
+        "storeId": 55009572,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "6",
+            "description": "Delivery time for CSV Export"
+        },
+        "key": "Delivery_time",
+        "brandId": 5,
+        "storeId": 55009575,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "5",
+            "description": "Delivery_time for LENGOW Stradivarius"
+        },
+        "key": "Delivery_time",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "6",
+            "description": "Delivery_time for LENGOW Oysho France"
+        },
+        "key": "Delivery_time",
+        "brandId": 6,
+        "storeId": 64009601,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "3",
+            "description": "Delivery_time for LENGOW Oysho Germany"
+        },
+        "key": "Delivery_time",
+        "brandId": 6,
+        "storeId": 64009604,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "4",
+            "description": "Delivery time for CSV Export"
+        },
+        "key": "Delivery_time",
+        "brandId": 7,
+        "storeId": 74009650,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "5",
+            "description": "Delivery time for CSV Export"
+        },
+        "key": "Delivery_time",
+        "brandId": 7,
+        "storeId": 74009656,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "3",
+            "description": "Delivery time for CSV Export"
+        },
+        "key": "Delivery_time",
+        "brandId": 7,
+        "storeId": 74009660,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "16",
+            "description": "Delivery time for CSV Export"
+        },
+        "key": "Delivery_time",
+        "brandId": 7,
+        "storeId": 75009422,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "4",
+            "description": "Delivery_time for LENGOW Uterque"
+        },
+        "key": "Delivery_time",
+        "brandId": 7,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "7",
+            "description": "Delivery_time for LENGOW ZaraHome US"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 84009527,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "5",
+            "description": "Spain Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 84009900,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "6",
+            "description": "France Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 84009901,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "5",
+            "description": "Deutshland Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 84009904,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "6",
+            "description": "United Kingdom Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 84009906,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "3",
+            "description": "Ireland Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 84009907,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "8",
+            "description": "Greece Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 84009909,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "9",
+            "description": "Sweden Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 84009912,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "9",
+            "description": "Canary Islands Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 84009913,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "6",
+            "description": "Austria Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 84009919,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "5",
+            "description": "Canada Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 84009978,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "5",
+            "description": "Turkey Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 85009921,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "20",
+            "description": "Russia Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 85009922,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "3",
+            "description": "Poland Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 85009924,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "9",
+            "description": "Croatia Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 85009925,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "6",
+            "description": "Switzerland Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 85009926,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "7",
+            "description": "Norway Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 85009927,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "5",
+            "description": "United Arab Emirates Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 85009931,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "8",
+            "description": "Finland Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": 85009986,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "7",
+            "description": "Default Delivery_time LENGOW in ZaraHome"
+        },
+        "key": "Delivery_time",
+        "brandId": 8,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "4",
+            "description": "Delivery_time LENGOW default value"
+        },
+        "key": "Delivery_time",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "-22,-21,-20,-13,-12,-11,-6,-5,-4,-3,-2,-1,100,-7,-14,-43,-50,-25,-15,-38,-39,-41,-27,-28,-30,-33,-34,-35,-36,-52,-44,-42,-47,-53,-49",
+            "description": "LanguageIds to export in Pull&Bear separated by commas"
+        },
+        "key": "EMPATHY_BROKER_CATALOG_LANGUAGES_TO_EXPORT",
+        "brandId": 2,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "-1,-2,-3,-4,-5,-6,-7,-9,-11,-12,-13,-14,-20,-21,-22,-24,-26,-27,-28,-30,-33,-34,-35,-36,-38,-39,-40,-42,-43,-44,-47,-49,-50,-53,100,-54,-56,-55",
+            "description": "LanguageIds to export in Dutti separated by commas"
+        },
+        "key": "EMPATHY_BROKER_CATALOG_LANGUAGES_TO_EXPORT",
+        "brandId": 3,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "-22,-21,-20,-14,-13,-12,-11,-7,-6,-5,-4,-3,-2,-1,100,-39,-25,-28,-38,-27,-33,-34,-35,-43,-30,-42,-15,-46,-10,-9,-36",
+            "description": "LanguageIds to export in Bershka separated by commas"
+        },
+        "key": "EMPATHY_BROKER_CATALOG_LANGUAGES_TO_EXPORT",
+        "brandId": 4,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "-13,-12,-11,-5,-6,-22,-4,-3,-2,-1,-20,-21,-14,100,-50,-43,-7,-27,-52,-44,-47,-53,-48,-49",
+            "description": "LanguageIds to export in Stradivarius separated by commas"
+        },
+        "key": "EMPATHY_BROKER_CATALOG_LANGUAGES_TO_EXPORT",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "-5,-2,-3,-4,-6,-22,-14,-20,-1,100,-21,-7,-43,-13,-12,-11,-38,-39,-50,-27,-28,-30,-33,-34,-35,-9,-25,-44,-37,-47,-53,-56",
+            "description": "LanguageIds to export in Oyshho separated by commas"
+        },
+        "key": "EMPATHY_BROKER_CATALOG_LANGUAGES_TO_EXPORT",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "-1,-3,-6,-20,-22,-2,-21,-14,-2,-4,-5,-27,-38,-28,-11,-12,-13,-47,-44",
+            "description": "LanguageIds to export in Uterque separated by commas"
+        },
+        "key": "EMPATHY_BROKER_CATALOG_LANGUAGES_TO_EXPORT",
+        "brandId": 7,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "100,-1,-2,-3,-4,-5,-6,-7,-9,-10,-11,-12,-13,-14,-15,-20,-21,-22,-25,-27,-28,-30,-33,-35,-38,-39,-43,-44,-47,-50,-51,-52,-53",
+            "description": "LanguageIds to export separated by commas"
+        },
+        "key": "EMPATHY_BROKER_CATALOG_LANGUAGES_TO_EXPORT",
+        "brandId": 8,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "-1,-5,-6,-20,-13,-12,-11,-15,-50,-51,-45",
+            "description": "LanguageIds to export in Lefties separated by commas"
+        },
+        "key": "EMPATHY_BROKER_CATALOG_LANGUAGES_TO_EXPORT",
+        "brandId": 9,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "-5,-1,-2,-3,-4,-50,-51,-15,-10,-20,-43,100,-6,-22,-9,-7,-14,-25,-44",
+            "description": "LanguageIds to export separated by commas"
+        },
+        "key": "EMPATHY_BROKER_CATALOG_LANGUAGES_TO_EXPORT",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "EMPATHY_BROKER_CATALOG_LANGUAGE_FILES_MODE",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "FIT_ANALYTICS_LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "FORWARDPMX_LANGUAGE_FILES_MODE",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "\"Medias\",\"Bisutería\",\"Bolsos\",\"Cinturones\",\"Ropa Interior\",\"Calcetines\",\"Accesorios\",\"Pañuelos\",\"Gafas\",\"Bufandas\",\"Guantes\",\"Monederos\",\"Paraguas\",\"Gorros y Sombreros\",\"Pendientes\",\"Stockings\",\"Jewellery\",\"Bags\",\"Belts\",\"Underwear\",\"Socks\",\"Accessories\",\"Neck Scarves\",\"Sunglasses\",\"Scarves\",\"Gloves\",\"Purses\",\"Umbrellas\",\"Caps and Hats\",\"Earrings\",\"Collants\",\"Bijoux Fantaisie\",\"Sacs\",\"Ceintures\",\"Sous-vêtements\",\"Chaussettes\",\"Accessoires\",\"Foulards\",\"Lunettes\",\"Écharpe\",\"Gants\",\"Porte-Monnaies\",\"Parapluies\",\"Bonnets et Chapeaux\",\"Boucles D´Oreille\",\"Strumpfhosen\",\"Modeschmuck\",\"Taschen\",\"Gürtel\",\"Unterwäsche\",\"Strümpfe\",\"Accessoires\",\"Tücher\",\"Brillen\",\"Schal\",\"Handschuhe\",\"Geldbörsen\",\"Regenschirme\",\"Mützen und Hüte\",\"Ohrringe\",\"Calze\",\"Bigiotteria\",\"Borse\",\"Cinture\",\"Intimo\",\"Collant\",\"Accessori\",\"Foulard\",\"Occhiali\",\"Sciarpa\",\"Guanti\",\"Borsellini\",\"Ombrelli\",\"Cappelli e Berretti\",\"Orecchini\",\"Rajstopy\",\"Biżuteria\",\"Torby\",\"Paski\",\"Bielizna\",\"Skarpetki\",\"Akcesoria\",\"Chustki\",\"Okulary\",\"Szalik\",\"Rękawiczki\",\"Portmonetki\",\"Parasolki\",\"Czapki i Kapelusze\",\"Kolczyki\",\"Panty'S\",\"Bijouterie\",\"Handtassen\",\"Ceinturen\",\"Ondergoed\",\"Sokken\",\"Accessoires\",\"Foulards\",\"Brillen\",\"Sjaal\",\"Handschoenen\",\"Portemonnees\",\"Paraplu'S\",\"Mutsen en Hoeden\",\"Oorbellen\",\"Чулок\",\"Бижутерия\",\"Сумки\",\"Пояса\",\"нижнее белье\",\"Носки\",\"Аксессуары\",\"Платки\",\"Очки\",\"Шарфы\",\"Перчатки\",\"Кошельки\",\"Зонтик\",\"Шапки И Шляпы\",\"Серьги\",\"Külotlu Çorap\",\"Bijüteri\",\"Çantalar \",\"Kemer\",\"Iç Giyim\",\"Çorap\",\"Aksesuar\",\"Eşarp\",\"Güneş Gözlüğü\",\"Atki\",\"Eldiven\",\"Cüzdan\",\"Şemsiye\",\"Bere Ve Şapkalar\",\"Küpeler\",\"Decoración\",\"Fragancias\",\"Menaje\",\"Papelería\",\"Textil\",\"Cosmética\",\"Decoration\",\"Fragrances\",\"Tableware\",\"Stationery\",\"Home Textiles\",\"Cosmetics\",\"Décoration\",\"Parfumerie\",\"Cuisine et Art de la Table\",\"Papeterie\",\"Textile\",\"Cosmétique\",\"Dekoration\",\"Düfte\",\"Haushaltswaren\",\"Schreibwaren\",\"Heimtextilien\",\"Kosmetik\",\"Decorazione\",\"Fragranze\",\"Articoli Per La Casa\",\"Articoli Di Cancelleria\",\"Tessile\",\"Cosmetica\",\"Wystrój Wnętrz\",\"Perfumy\",\"Artykuły Gospodarstwa Domowego\",\"Artykuły Papiernicze\",\"Artykuły Włókiennicze\",\"Makijaż\",\"Decoratie\",\"Parfums\",\"Huishoudelijke Artikelen\",\"Schreibwaren\",\"Textiel\",\"Cosmetica\",\"Декор\",\"Парфюмерия\",\"Столовая И Кухня\",\"Канцтовары\",\"Домашний Текстиль\",\"Косметика\",\"Dekorasyon\",\"Parfümler\",\"Ev Eşyaları\",\"Kirtasiye\",\"Tekstil\",\"Kozmetik\"",
+            "description": "Families mapping to google category"
+        },
+        "key": "GOOGLE_ACCESORIES_FAMILIES",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "\"Decoración\",\"Fragancias\",\"Menaje\",\"Papelería\",\"Textil\",\"Cosmética\",\"Decoration\",\"Fragrances\",\"Tableware\",\"Stationery\",\"Home Textiles\",\"Cosmetics\",\"Décoration\",\"Parfumerie\",\"Cuisine et Art de la Table\",\"Papeterie\",\"Textile\",\"Cosmétique\",\"Dekoration\",\"Düfte\",\"Haushaltswaren\",\"Schreibwaren\",\"Heimtextilien\",\"Kosmetik\",\"Decorazione\",\"Fragranze\",\"Articoli Per La Casa\",\"Articoli Di Cancelleria\",\"Tessile\",\"Cosmetica\",\"Wystrój Wnętrz\",\"Perfumy\",\"Artykuły Gospodarstwa Domowego\",\"Artykuły Papiernicze\",\"Artykuły Włókiennicze\",\"Makijaż\",\"Decoratie\",\"Parfums\",\"Huishoudelijke Artikelen\",\"Schreibwaren\",\"Textiel\",\"Cosmetica\",\"Декор\",\"Парфюмерия\",\"Столовая И Кухня\",\"Канцтовары\",\"Домашний Текстиль\",\"Косметика\",\"Dekorasyon\",\"Parfümler\",\"Ev Eşyaları\",\"Kirtasiye\",\"Tekstil\",\"Kozmetik\"",
+            "description": "Families mapping to google category"
+        },
+        "key": "GOOGLE_MENAGE_FAMILIES",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "\"Botas y Botines\",\"Sandalias\",\"Zapatos Planos\",\"Zapatos De Tacón\",\"Zapatos\",\"Sandalias Con Tacon\",\"Sandalia Plana\",\"Cuñas\",\"Deportivos\",\"Boots and Ankle Boots\",\"Sandals\",\"Flat Shoes\",\"Heel Shoes\",\"Shoes\",\"Heeled Sandals\",\"Flat Sandals\",\"Wedges\",\"Sneakers\",\"Bottes et Bottines\",\"Sandales\",\"Chaussures Basses\",\"Chaussures À Talon\",\"Chaussures\",\"Sandales à Talons\",\"Sandales Plates\",\"Talon Compensé\",\"Chaussures De Sport\",\"Stiefel und Stiefeletten\",\"Sandalen\",\"Schuhe Ohne Absatz\",\"Schuhe Mit Absatz\",\"Schuhe\",\"Sandalen Mit Absatz\",\"Flache Sandalen\",\"Schuhe Mit Keilabsatz\",\"Sportschuhe\",\"Stivali e Stivaletti\",\"Sandalo\",\"Scarpe Basse\",\"Scarpe Con Tacco\",\"Scarpe\",\"Sandali Con Tacco\",\"Sandalo Basso\",\"Zeppe\",\"Scarpa Sportiva\",\"Botki i Kozaki\",\"Sandaly\",\"Półbuty\",\"Buty Na Obcasie\",\"Buty\",\"Sandały Na Obcasie\",\"Plaskie Sandaly\",\"Koturny\",\"Sportowe Buty\",\"Laarzen en Laarsjes\",\"Sandaal\",\"Platte Schoenen\",\"Schoenen Met Hak\",\"Schoenen\",\"Sandalen Met Hak\",\"Platte Sandaal\",\"Sleehakken\",\"Sportschoenen\",\"Сапоги И Ботинки\",\"Сандалии\",\"Туфли На Плоской Подошве\",\"Туфли На Каблуках\",\"Обувь\",\"Босоножки На Каблуках\",\"Сандалии\",\"Туфли На Танкетке\",\"Кроссовки\",\"Çizme Ve Bot\",\"Sandalet\",\"Düz Ayakkabi\",\"Topuklu Ayakkabi\",\"Ayakkabi\",\"Topuklu Sandaletler\",\"Düz Sandaletler\",\"Dolgu Topuklar\",\"Spor Ayakkabi\"",
+            "description": "Families mapping to google category"
+        },
+        "key": "GOOGLE_SHOES_FAMILIES",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "http://static.pullandbear.net/2/photos",
+            "description": "Url  for images"
+        },
+        "key": "IMAGE_URL_HOST",
+        "brandId": 2,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "http://static.massimodutti.net/3/photos",
+            "description": "Url  for images"
+        },
+        "key": "IMAGE_URL_HOST",
+        "brandId": 3,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "http://static.bershka.net/4/photos2",
+            "description": "Url  for images"
+        },
+        "key": "IMAGE_URL_HOST",
+        "brandId": 4,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "http://static.e-stradivarius.net/5/photos3",
+            "description": "Url  for images"
+        },
+        "key": "IMAGE_URL_HOST",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "https://static.oysho.net/6/photos2",
+            "description": "Url  for images"
+        },
+        "key": "IMAGE_URL_HOST",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "http://static.uterque.net/7/photos",
+            "description": "Url  for images"
+        },
+        "key": "IMAGE_URL_HOST",
+        "brandId": 7,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "http://static.zarahome.net/8/photos4",
+            "description": "Url  for images"
+        },
+        "key": "IMAGE_URL_HOST",
+        "brandId": 8,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "https://static.lefties.com/9/photos2",
+            "description": "Url  for images"
+        },
+        "key": "IMAGE_URL_HOST",
+        "brandId": 9,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_2_1_3",
+            "description": "Image URL2 for CSV Export Bershka"
+        },
+        "key": "Image2_suffix",
+        "brandId": 4,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_2_1",
+            "description": "Main image without Join Life URL for CSV Export"
+        },
+        "key": "Image_URL_notext",
+        "brandId": 4,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_1",
+            "description": "Image URL for CSV Export"
+        },
+        "key": "Image_big_suffix",
+        "brandId": 2,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_15",
+            "description": "Image URL for CSV Export"
+        },
+        "key": "Image_big_suffix",
+        "brandId": 3,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_4",
+            "description": "Image URL for CSV Export"
+        },
+        "key": "Image_big_suffix",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_2",
+            "description": "Image url for Oysho"
+        },
+        "key": "Image_big_suffix",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_1",
+            "description": "Image url for Uterque"
+        },
+        "key": "Image_big_suffix",
+        "brandId": 7,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_1",
+            "description": "Image url for ZaraHome"
+        },
+        "key": "Image_big_suffix",
+        "brandId": 8,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_1",
+            "description": "Image URL for CSV Export"
+        },
+        "key": "Image_big_suffix",
+        "brandId": 9,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_1",
+            "description": "Image URL for CSV Export"
+        },
+        "key": "Image_big_suffix",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_1",
+            "description": "Image_URL for Stradivarius"
+        },
+        "key": "Image_fit_suffix",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_2_4_3",
+            "description": "Image Flat URL for CSV Export"
+        },
+        "key": "Image_flat_suffix",
+        "brandId": 4,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_4_1_1",
+            "description": "Image URL for Pull&Bear"
+        },
+        "key": "Image_medium_suffix",
+        "brandId": 2,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_13",
+            "description": "Image URL for CSV Export"
+        },
+        "key": "Image_medium_suffix",
+        "brandId": 3,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_6",
+            "description": "Image URL for CSV Export"
+        },
+        "key": "Image_medium_suffix",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_4",
+            "description": "Image URL for CSV Export"
+        },
+        "key": "Image_medium_suffix",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_3",
+            "description": "Image URL for Uterque"
+        },
+        "key": "Image_medium_suffix",
+        "brandId": 7,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_3",
+            "description": "Image URL for ZaraHome"
+        },
+        "key": "Image_medium_suffix",
+        "brandId": 8,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_3",
+            "description": "Image URL for Pull&Bear"
+        },
+        "key": "Image_medium_suffix",
+        "brandId": 9,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_3",
+            "description": "Image URL for Default Value"
+        },
+        "key": "Image_medium_suffix",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_2_6_8",
+            "description": "Image URL for Responsys feed for Pull&Bear"
+        },
+        "key": "Image_responsys_1_suffix",
+        "brandId": 2,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_6_1_15",
+            "description": "Image URL for Responsys feed for Oysho"
+        },
+        "key": "Image_responsys_1_suffix",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_2_1_15",
+            "description": "Image URL for Responsys feed for Oysho"
+        },
+        "key": "Image_responsys_2_suffix",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_2_2_15",
+            "description": "Image URL for Responsys feed for Oysho"
+        },
+        "key": "Image_responsys_3_suffix",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_12_1_15",
+            "description": "Image URL for Responsys feed for Oysho"
+        },
+        "key": "Image_responsys_4_suffix",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_4_1_15",
+            "description": "Image URL for Responsys feed for Oysho"
+        },
+        "key": "Image_responsys_5_suffix",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_4_1_3",
+            "description": "Image URL Silhouetted for Pull"
+        },
+        "key": "Image_silhouetted_suffix",
+        "brandId": 2,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_4_1_3",
+            "description": "Image URL Silhouetted for Dutti"
+        },
+        "key": "Image_silhouetted_suffix",
+        "brandId": 3,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_6_1_3",
+            "description": "Image URL Silhouetted for Pull"
+        },
+        "key": "Image_silhouetted_suffix",
+        "brandId": 4,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_2_4_3",
+            "description": "Image URL Silhouetted for Stradivarius"
+        },
+        "key": "Image_silhouetted_suffix",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_4_1_3",
+            "description": "Image URL Silhouetted for Oysho"
+        },
+        "key": "Image_silhouetted_suffix",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_6_1_3",
+            "description": "Image URL Silhouetted for Pull"
+        },
+        "key": "Image_silhouetted_suffix",
+        "brandId": 7,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_6_1_3",
+            "description": "Image URL Silhouetted for Pull"
+        },
+        "key": "Image_silhouetted_suffix",
+        "brandId": 8,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_5",
+            "description": "Image URL for Pull&Bear"
+        },
+        "key": "Image_small_suffix",
+        "brandId": 2,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_5",
+            "description": "Image URL for CSV Export"
+        },
+        "key": "Image_small_suffix",
+        "brandId": 3,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_4",
+            "description": "Image URL for CSV Export"
+        },
+        "key": "Image_small_suffix",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_5",
+            "description": "Image URL for Uterque"
+        },
+        "key": "Image_small_suffix",
+        "brandId": 7,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_5",
+            "description": "Image URL for ZaraHome"
+        },
+        "key": "Image_small_suffix",
+        "brandId": 8,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_5",
+            "description": "Image URL for Pull&Bear"
+        },
+        "key": "Image_small_suffix",
+        "brandId": 9,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_5",
+            "description": "Image URL for CSV Export"
+        },
+        "key": "Image_small_suffix",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_4_1_1",
+            "description": "Image_URL for Pull&Bear"
+        },
+        "key": "Image_suffix",
+        "brandId": 2,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_15",
+            "description": "Image_URL for Massimo Dutti"
+        },
+        "key": "Image_suffix",
+        "brandId": 3,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_4",
+            "description": "Image_URL for Stradivarius"
+        },
+        "key": "Image_suffix",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_4",
+            "description": "Image_URL for Oysho"
+        },
+        "key": "Image_suffix",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_4",
+            "description": "Image_URL for Uterque"
+        },
+        "key": "Image_suffix",
+        "brandId": 7,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_3",
+            "description": "Image_URL for ZaraHome"
+        },
+        "key": "Image_suffix",
+        "brandId": 8,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_1",
+            "description": "Image_URL for Pull&Bear"
+        },
+        "key": "Image_suffix",
+        "brandId": 9,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_1_1_1",
+            "description": "Image_URL Default value"
+        },
+        "key": "Image_suffix",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "_6_1_1",
+            "description": "Image URL for Pull&Bear"
+        },
+        "key": "Image_visual_suffix",
+        "brandId": 2,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "We export all langauge for Spain in Pull&Bear"
+        },
+        "key": "LANGUAGE_FILES_MODE",
+        "brandId": 2,
+        "storeId": 24009400,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "We export all langauge for Spain in Pull&Bear"
+        },
+        "key": "LANGUAGE_FILES_MODE",
+        "brandId": 2,
+        "storeId": 25009531,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LANGUAGE_FILES_MODE",
+        "brandId": 3,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": 54009552,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LANGUAGE_FILES_MODE",
+        "brandId": 6,
+        "storeId": 64009600,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "We export all langauges for Lefties"
+        },
+        "key": "LANGUAGE_FILES_MODE",
+        "brandId": 9,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "We export all langauge for Spain in Pull&Bear"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 2,
+        "storeId": 24009400,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 2,
+        "storeId": 24009477,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 2,
+        "storeId": 25009465,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 2,
+        "storeId": 25009530,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "We export all langauge for Spain in Pull&Bear"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 2,
+        "storeId": 25009531,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "We export all langauge for Kuwait in Pull&Bear"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 2,
+        "storeId": 25009532,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 2,
+        "storeId": 25009540,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 2,
+        "storeId": 25009552,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 2,
+        "storeId": 25009563,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 2,
+        "storeId": 28009400,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 3,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": 54009552,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": 54009561,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": 55009575,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": 55009580,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": 55009593,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": 55009595,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": 55009597,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": 55009602,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": 55009604,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": 55009605,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": 55009609,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 5,
+        "storeId": 56009558,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 6,
+        "storeId": 64009600,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 6,
+        "storeId": 65009630,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 6,
+        "storeId": 65009631,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 6,
+        "storeId": 65009632,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 6,
+        "storeId": 65009640,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 6,
+        "storeId": 65009642,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "We export all langauges for Bulgaria in Oysho"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 6,
+        "storeId": 65009643,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 8,
+        "storeId": 84009900,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "We export all langauge for UAE in ZaraHome"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 8,
+        "storeId": 85009931,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "We export all langauge for Kuwait in ZaraHome"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 8,
+        "storeId": 85009932,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "We export all langauge for Qatar in ZaraHome"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 8,
+        "storeId": 85009940,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "We export all langauge for Egypt in ZaraHome"
+        },
+        "key": "LENGOW_LANGUAGE_FILES_MODE",
+        "brandId": 8,
+        "storeId": 85009942,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "true",
+            "description": "Query for index promos direct from XPROMOTION"
+        },
+        "key": "PREWARMING_EASY_GET_PROMOS",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "#FF8000",
+            "description": "Price color for Lefties in Spain"
+        },
+        "key": "PRICE_COLOR",
+        "brandId": 9,
+        "storeId": 94009000,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "axpreprueccwpslb1-pullandbear.central.inditex.grp",
+            "description": "Url  for products"
+        },
+        "key": "PRODUCT_URL_HOST",
+        "brandId": 2,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "www.massimodutti.com",
+            "description": "Url  for images"
+        },
+        "key": "PRODUCT_URL_HOST",
+        "brandId": 3,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "www.bershka.com",
+            "description": "Url  for products"
+        },
+        "key": "PRODUCT_URL_HOST",
+        "brandId": 4,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "www.stradivarius.com",
+            "description": "Url  for products"
+        },
+        "key": "PRODUCT_URL_HOST",
+        "brandId": 5,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "www.oysho.com",
+            "description": "Url  for products"
+        },
+        "key": "PRODUCT_URL_HOST",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "www.uterque.com",
+            "description": "Url  for products"
+        },
+        "key": "PRODUCT_URL_HOST",
+        "brandId": 7,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "www.zarahome.com",
+            "description": "Url  for products"
+        },
+        "key": "PRODUCT_URL_HOST",
+        "brandId": 8,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "www.lefties.com",
+            "description": "Url  for products"
+        },
+        "key": "PRODUCT_URL_HOST",
+        "brandId": 9,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "FEMMINILE",
+            "description": "SECTION NAME for Store Italy Language Italian provisional config"
+        },
+        "key": "SECTION_NAME1",
+        "brandId": 2,
+        "storeId": 24009405,
+        "languageId": -4
+    },
+    {
+        "data": {
+            "value": "HOME",
+            "description": "SECTION NAME for zarahome They want HOME as description for every section"
+        },
+        "key": "SECTION_NAME1",
+        "brandId": 8,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "MASCHILE",
+            "description": "SECTION NAME for Store Italy  Language Italian provisional config"
+        },
+        "key": "SECTION_NAME2",
+        "brandId": 2,
+        "storeId": 24009405,
+        "languageId": -4
+    },
+    {
+        "data": {
+            "value": "HOME",
+            "description": "SECTION NAME for zarahome They want HOME as description for every section"
+        },
+        "key": "SECTION_NAME2",
+        "brandId": 8,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "BAMBINI",
+            "description": "SECTION NAME for Store Italy Language Italian provisional config"
+        },
+        "key": "SECTION_NAME3",
+        "brandId": 2,
+        "storeId": 24009405,
+        "languageId": -4
+    },
+    {
+        "data": {
+            "value": "HOME",
+            "description": "SECTION NAME for zarahome They want HOME as description for every section"
+        },
+        "key": "SECTION_NAME3",
+        "brandId": 8,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "NOVEDADES",
+            "description": "String to search in categories identifier to determine if a product is new or not"
+        },
+        "key": "STRING_CATEGORY_NEW",
+        "brandId": 2,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "NUEVO",
+            "description": "String to search in categories identifier to determine if a product is new or not"
+        },
+        "key": "STRING_CATEGORY_NEW",
+        "brandId": 9,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "NUEVO",
+            "description": "String to search in categories identifier to determine if a product is new or not"
+        },
+        "key": "STRING_CATEGORY_NEW",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "-5,-2,-3,-4,-6,-22,-14,-20,-1,100,-21,-7,-43,-38,-39,-50,-27,-28,-30,-33,-34,-35,-25",
+            "description": "LanguageIds to export in Oyshho separated by commas"
+        },
+        "key": "TRUE_FIT_LANGUAGES_TO_EXPORT",
+        "brandId": 6,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ProductUrl",
+            "description": "Unique URL"
+        },
+        "key": "URL_Strategy",
+        "brandId": 2,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ProductUrl",
+            "description": "Unique URL for productURL in Andorra"
+        },
+        "key": "URL_Strategy",
+        "brandId": 4,
+        "storeId": 45109535,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "-5,-1,-2,-3,-4,-50,-51,-15,-10,-20,-43,100,-6,-22,-9,-7,-14,-11,-12,-13,-21,-27,-28,-30,-33,-34,-35,-38,-39,-44",
+            "description": "LanguageIds to export separated by commas"
+        },
+        "key": "WIDEEYES_LANGUAGES_TO_EXPORT",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "ALL",
+            "description": "Export all languages of the store"
+        },
+        "key": "WIDEEYES_LANGUAGE_FILES_MODE",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "2 años",
+            "description": "Delivery description for Pull&Bear Spain"
+        },
+        "key": "Warranty",
+        "brandId": 2,
+        "storeId": 24009400,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "2 años",
+            "description": "Delivery description for Massimo Dutti Spain"
+        },
+        "key": "Warranty",
+        "brandId": 3,
+        "storeId": 34009450,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "2 años",
+            "description": "Delivery description for Bershka Spain"
+        },
+        "key": "Warranty",
+        "brandId": 4,
+        "storeId": 44009500,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "2 años",
+            "description": "Warranty for Stradivarius Spain"
+        },
+        "key": "Warranty",
+        "brandId": 5,
+        "storeId": 54009550,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "2 años",
+            "description": "Warranty for Oysho Spain"
+        },
+        "key": "Warranty",
+        "brandId": 6,
+        "storeId": 64009600,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "2 años",
+            "description": "Warranty for Uterque Spain"
+        },
+        "key": "Warranty",
+        "brandId": 7,
+        "storeId": 74009650,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "2 anos",
+            "description": "Warranty for CSV Export"
+        },
+        "key": "Warranty",
+        "brandId": 7,
+        "storeId": 74009660,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "2 años",
+            "description": "Warranty for Uterque Spain"
+        },
+        "key": "Warranty",
+        "brandId": 8,
+        "storeId": 84009527,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "2 años",
+            "description": "Spain Warranty for ZaraHome"
+        },
+        "key": "Warranty",
+        "brandId": 8,
+        "storeId": 84009900,
+        "languageId": null
+    },
+    {
+        "data": {
+            "value": "",
+            "description": "Delivery description for CSV Export"
+        },
+        "key": "Warranty",
+        "brandId": null,
+        "storeId": null,
+        "languageId": null
+    }
+]
